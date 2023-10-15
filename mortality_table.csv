@@ -1,0 +1,130 @@
+Table Name:,1983 GAM Basic Table -  Male
+Table Identity:,828
+Provider Domain:,soa.org
+Provider Name:,Roger Scott Lumsden
+Table Reference:,"Committee on Annuities, Development of the 1983 Group Annuity Mortality Table, Transaction of the Society of Actuaries Vol. XXXV, (1983). Accessed: March, 2013 from http://www.soa.org/Library/Research/Transactions-Of-Society-Of-Actuaries/1983/January/tsa83v3527.pdf"
+Content Type:,Annuitant Mortality
+Table Description:,1983 Group Annuity Mortality (GAM) Basic Table � Male. Formerly Table 17-A. Minimum Age: 5 Maximum Age: 110
+EffDate:,
+Comments:,"Study Data: Intended as an interim table for valuation pending the development of a new mortality table while the committee collected data to produce a new table based upon intercompany experience for the years 1981-85. The committee limited its review of insured group annuity data to experience submitted by Prudential for calendar years 1976-80 inclusive and by the Bankers Life for the years 1973-74 and 1980-81. Because of the shortage of data covering insured annuitants, the committee decided to review the private mortality studies conducted by George B. Buck Consulting Actuaries in 1974 and 1979 (See SOA Table Identities 865 -868). The data still did not yet include sufficient information to form the basis for a new or updated mortality table. Consequently, the committee turned to population statistics. The committee analyzed U.S. white population statistics for the period from 1965 through 1978. Canadian population statistics were also reviewed for two quinquennial periods from 1966 to 1976. Finally, the committee analyzed the average annual percent decreases in mortality rates for persons covered under Medicare between 1973 and 1977. Methodology: The graduation method used in the construction of the 1971 GAM Table was a nine-factor linear compound, minimum smoothing coefficient formula. However as the committee had data only at quinquennial ages, it had to select a method that was appropriate for grouped data and for obtaining intermediate values. With these objectives in mind, the committee decided to use Jenkins' fifth difference modified osculatory interpolation formula to graduate the unadjusted 1983 rates. The Jenkins formula was applied to all ages between 35 and 85. Graduated values at the extreme ages were fitted by graduation with reference to the 1966 Experience Table. For valuation purposes, margins are added for a degree of safety to reserves. The loaded tables associated with 1983 GAM Basic Tables can be found at SOA Table Identities 825 and 826. Data Transcription Errors: None. Data Certified: 03/2013"
+Keywords:,"Aggregate,Annuitant mortality,United States of America"
+
+Table # ,1
+Table Description:,1983 Group Annuity Mortality (GAM) Basic Table � Male. Formerly Table 17-A. Minimum Age: 5 Maximum Age: 110
+Nation:,United States of America
+Scaling Factor:,0
+Data Type:,Floating Point
+"Row, Column (if applicable)->id:",Age
+"Row, Column (if applicable)->ScaleType:",Age
+"Row, Column (if applicable)->AxisName:",Age
+"Row, Column (if applicable)->MinScaleValue:",5
+"Row, Column (if applicable)->MaxScaleValue:",110
+"Row, Column (if applicable)->Increment:",1
+
+Row\Column,1
+5,0.000380
+6,0.000353
+7,0.000336
+8,0.000327
+9,0.000324
+10,0.000325
+11,0.000331
+12,0.000338
+13,0.000344
+14,0.000352
+15,0.000361
+16,0.000370
+17,0.000381
+18,0.000392
+19,0.000405
+20,0.000419
+21,0.000435
+22,0.000453
+23,0.000471
+24,0.000493
+25,0.000515
+26,0.000542
+27,0.000570
+28,0.000602
+29,0.000636
+30,0.000674
+31,0.000717
+32,0.000763
+33,0.000815
+34,0.000872
+35,0.000955
+36,0.001008
+37,0.001073
+38,0.001154
+39,0.001253
+40,0.001375
+41,0.001522
+42,0.001697
+43,0.001905
+44,0.002147
+45,0.002426
+46,0.002745
+47,0.003100
+48,0.003487
+49,0.003903
+50,0.004343
+51,0.004804
+52,0.005283
+53,0.005778
+54,0.006289
+55,0.006812
+56,0.007353
+57,0.007932
+58,0.008577
+59,0.009315
+60,0.010175
+61,0.011182
+62,0.012370
+63,0.013768
+64,0.015409
+65,0.017324
+66,0.019532
+67,0.022004
+68,0.024699
+69,0.027574
+70,0.030589
+71,0.033727
+72,0.037078
+73,0.040756
+74,0.044876
+75,0.049552
+76,0.054876
+77,0.060842
+78,0.067420
+79,0.074583
+80,0.082300
+81,0.090538
+82,0.099244
+83,0.108361
+84,0.117830
+85,0.127595
+86,0.137967
+87,0.148744
+88,0.160081
+89,0.172066
+90,0.184785
+91,0.198016
+92,0.211622
+93,0.225563
+94,0.242116
+95,0.260096
+96,0.276040
+97,0.293282
+98,0.312003
+99,0.332393
+100,0.354650
+101,0.378984
+102,0.405613
+103,0.436780
+104,0.474728
+105,0.521701
+106,0.579939
+107,0.651687
+108,0.739187
+109,0.844683
+110,1.000000
